@@ -1,5 +1,5 @@
 # How-to-Manage-AWS-IAM-Users-with-Python
-
+(https://www.ipswitch.com/blog/how-to-manage-aws-iam-users-with-python)
 
 
 Amazon Web Services (AWS) offers a service known as Identity and Access Management (IAM) that lets AWS Administrators provision and manage users and permissions in AWS cloud.  AWS IAM can prove very useful for System Administrators looking to centrally manage users, permissions and credentials; in order to authorize user access on AWS services like EC2, S3, CloudWatch etc.
